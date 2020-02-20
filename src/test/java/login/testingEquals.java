@@ -9,7 +9,7 @@ public class testingEquals {
 	void equalsFour() {
 		int x = 2 , y = 3;
 		
-		Assert.assertEquals(x+y, 4);
+		Assert.assertEquals(x+y, 5);
 	}
 	
 }
